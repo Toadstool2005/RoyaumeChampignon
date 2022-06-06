@@ -3,7 +3,6 @@
 }
 
 .u-section-1 .u-custom-html-1 {
-  height: auto;
   min-height: 576px;
   margin-top: 1px;
   margin-bottom: 1px;
@@ -12,6 +11,10 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 1193px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
   }
 }
 
@@ -49,9 +52,9 @@
 }
 
 .u-section-2 .u-repeater-1 {
-  grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+  grid-template-columns: calc(33.3333% - 13.3333px) calc(33.3333% - 13.3333px) calc(33.3333% - 13.3333px);
   min-height: 228px;
-  grid-gap: 20px;
+  grid-gap: 20px 20px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -64,17 +67,11 @@
   margin: 19px auto 0 0;
 }
 
-.u-section-2 .u-container-layout-2 {
-  padding: 11px 30px;
-}
-
 .u-section-2 .u-text-3 {
-  font-size: 1.875rem;
-  font-weight: 700;
-  margin: 19px auto 0 0;
+  margin: 20px 60px 0 0;
 }
 
-.u-section-2 .u-container-layout-3 {
+.u-section-2 .u-container-layout-2 {
   padding: 11px 30px;
 }
 
@@ -82,6 +79,24 @@
   font-size: 1.875rem;
   font-weight: 700;
   margin: 19px auto 0 0;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 20px 60px 0 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 11px 30px;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 19px auto 0 0;
+}
+
+.u-section-2 .u-text-7 {
+  margin: 20px 60px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -93,6 +108,21 @@
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(3, calc(33.333333333333336% - 13.3333px));
     min-height: 188px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 0;
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 0;
+    font-size: 1.25rem;
   }
 }
 
@@ -141,11 +171,38 @@
     font-size: 1.5rem;
   }
 
-  .u-section-2 .u-text-3 {
+  .u-section-2 .u-text-4 {
     font-size: 1.5rem;
   }
 
-  .u-section-2 .u-text-4 {
+  .u-section-2 .u-text-6 {
     font-size: 1.5rem;
+  }
+}.u-section-3 .u-image-1 {
+  min-height: 50vw;
+  background-image: url("images/Screenshot_20220514-183532_Discord.jpg");
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-image-1 {
+    min-height: 530px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-image-1 {
+    min-height: 461px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-image-1 {
+    min-height: 405px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-image-1 {
+    min-height: 342px;
   }
 }
