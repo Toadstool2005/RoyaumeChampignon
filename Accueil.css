@@ -167,8 +167,8 @@
 }
 
 .u-section-2 .u-image-2 {
-  width: 1105px;
-  height: 690px;
+  width: 1106px;
+  height: 691px;
   margin: 40px auto 0 -376px;
 }
 
@@ -293,7 +293,7 @@
 }
 
 .u-section-2 .u-image-3 {
-  width: 325px;
+  width: 364px;
   height: 381px;
   margin: -358px auto 60px 50px;
 }
@@ -306,10 +306,6 @@
   .u-section-2 .u-image-1 {
     margin-top: 56px;
     margin-right: -50px;
-  }
-
-  .u-section-2 .u-image-2 {
-    height: 691px;
   }
 
   .u-section-2 .u-list-1 {
@@ -408,6 +404,10 @@
 
   .u-section-2 .u-container-layout-1 {
     padding-bottom: 45px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 1105px;
   }
 
   .u-section-2 .u-image-3 {
@@ -543,7 +543,7 @@
 .u-section-3 .u-image-1 {
   width: 468px;
   height: 468px;
-  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/images.jpg?rand=a7d1");
+  background-image: url("images/images.jpg");
   background-position: 50% 50%;
   margin: 270px auto 0;
 }
@@ -988,7 +988,6 @@
 .u-section-5 .u-group-1 {
   min-height: 439px;
   width: 614px;
-  height: auto;
   margin: -1535px calc(((100% - 1140px) / 2) + 51px) 60px auto;
 }
 
@@ -1046,7 +1045,6 @@
   .u-section-5 .u-group-1 {
     margin-top: -1250px;
     margin-right: calc(((100% - 940px) / 2) + 51px);
-    height: auto;
   }
 }
 
@@ -1293,15 +1291,15 @@
 }
 
 .u-section-7 .u-image-1 {
-  height: 213px;
-  width: 213px;
-  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/97b1.jpg?rand=45a5");
+  width: 199px;
+  height: 199px;
+  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/97b1.jpg?rand=2faf");
   background-position: 50% 50%;
-  margin: 7px auto 0;
+  margin: 64px 17px 0 1px;
 }
 
 .u-section-7 .u-text-2 {
-  margin: 17px 0 0;
+  margin: 64px 0 0;
 }
 
 .u-section-7 .u-text-3 {
@@ -1313,15 +1311,15 @@
 }
 
 .u-section-7 .u-image-2 {
-  height: 213px;
-  width: 213px;
-  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/6e966893fbcd2ed97c56637687c3c0b4.webp?rand=b973");
+  width: 199px;
+  height: 199px;
+  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/6e966893fbcd2ed97c56637687c3c0b4.webp?rand=c5b0");
   background-position: 50% 50%;
-  margin: 7px auto 0;
+  margin: 64px 17px 0 1px;
 }
 
 .u-section-7 .u-text-4 {
-  margin: 17px 0 0;
+  margin: 64px 0 0;
 }
 
 .u-section-7 .u-text-5 {
@@ -1333,15 +1331,15 @@
 }
 
 .u-section-7 .u-image-3 {
-  height: 213px;
-  width: 213px;
-  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/7c19258f5d16abe630c6e8f20195a8f9.webp?rand=8ee1");
+  width: 199px;
+  height: 199px;
+  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/7c19258f5d16abe630c6e8f20195a8f9.webp?rand=abbd");
   background-position: 50% 50%;
-  margin: 7px auto 0;
+  margin: 64px 17px 0 1px;
 }
 
 .u-section-7 .u-text-6 {
-  margin: 17px 0 0;
+  margin: 64px 0 0;
 }
 
 .u-section-7 .u-text-7 {
@@ -1353,15 +1351,15 @@
 }
 
 .u-section-7 .u-image-4 {
-  height: 213px;
-  width: 213px;
-  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/a_1041160ecedd76fed6129b67776e4bd1.gif?rand=346d");
+  width: 199px;
+  height: 199px;
+  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/a_1041160ecedd76fed6129b67776e4bd1.gif?rand=aec1");
   background-position: 50% 50%;
-  margin: 7px auto 0;
+  margin: 64px 17px 0 1px;
 }
 
 .u-section-7 .u-text-8 {
-  margin: 17px 0 0;
+  margin: 64px 0 0;
 }
 
 .u-section-7 .u-text-9 {
@@ -1375,19 +1373,9 @@
     margin-left: initial;
   }
 
-  .u-section-7 .u-image-1 {
-    height: 165px;
-    width: 165px;
-  }
-
   .u-section-7 .u-text-3 {
     margin-left: 16px;
     margin-right: 16px;
-  }
-
-  .u-section-7 .u-image-2 {
-    height: 165px;
-    width: 165px;
   }
 
   .u-section-7 .u-text-5 {
@@ -1395,19 +1383,9 @@
     margin-right: 16px;
   }
 
-  .u-section-7 .u-image-3 {
-    height: 165px;
-    width: 165px;
-  }
-
   .u-section-7 .u-text-7 {
     margin-left: 16px;
     margin-right: 16px;
-  }
-
-  .u-section-7 .u-image-4 {
-    height: 165px;
-    width: 165px;
   }
 
   .u-section-7 .u-text-9 {
