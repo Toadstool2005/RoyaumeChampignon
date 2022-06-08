@@ -36722,7 +36722,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-btn-2 {
-    margin-top: -60px;
     margin-left: calc(((100% - 720px) / 2) + 233px);
   }
 
@@ -36751,7 +36750,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-btn-2 {
-    margin-top: -27px;
+    margin-top: 20px;
     margin-left: calc(((100% - 340px) / 2));
   }
 
