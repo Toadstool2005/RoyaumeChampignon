@@ -1196,7 +1196,6 @@
 
 .u-section-6 .u-custom-html-1 {
   min-height: 507px;
-  height: auto;
   margin: 57px -834px -54px 74px;
 }
 
@@ -1222,6 +1221,7 @@
   }
 
   .u-section-6 .u-custom-html-1 {
+    height: auto;
     margin-left: 0;
     margin-right: 0;
   }
@@ -1299,8 +1299,12 @@
   min-height: 496px;
 }
 
+.u-section-7 .u-custom-html-1 {
+  margin: 20px auto 0;
+}
+
 .u-section-7 .u-text-1 {
-  margin: 29px auto 0;
+  margin: 20px auto 0;
 }
 
 .u-section-7 .u-list-1 {
