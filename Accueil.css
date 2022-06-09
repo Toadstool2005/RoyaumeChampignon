@@ -157,7 +157,7 @@
 .u-section-2 .u-image-1 {
   width: 732px;
   min-height: 1011px;
-  background-image: url("np://user.desktop.nicepage.com/Site_291708563/images/v.png");
+  background-image: url("images/v.png");
   background-position: 50% 50%;
   margin: 46px 0 0 auto;
 }
@@ -1145,6 +1145,19 @@
     padding-top: 0;
     padding-bottom: 0;
   }
+
+  .u-section-5 .u-text-1 {
+    width: auto;
+    margin-top: 53px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-top: 21px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-top: -6px;
+  }
 } .u-section-6 {
   background-image: none;
 }
@@ -1196,7 +1209,7 @@
 
 .u-section-6 .u-custom-html-1 {
   min-height: 507px;
-  margin: 57px -834px -54px 74px;
+  margin: 54px -834px -51px 74px;
 }
 
 @media (max-width: 1199px) {
@@ -1309,7 +1322,7 @@
 
 .u-section-7 .u-list-1 {
   grid-template-rows: auto;
-  margin: 7px auto 29px 0;
+  margin: 7px auto 60px 0;
 }
 
 .u-section-7 .u-repeater-1 {
