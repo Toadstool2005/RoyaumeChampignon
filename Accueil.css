@@ -387,6 +387,12 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  .u-section-2 .u-image-3 {
+    width: 369px;
+    margin-top: -371px;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 991px) {
