@@ -38139,7 +38139,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 214px;
+    min-height: 247px;
   }
 
   .u-header .u-menu-1 {
@@ -38152,35 +38152,108 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-top: -74px;
-    margin-left: 257px;
+    width: auto;
+    margin-top: -71px;
+    margin-right: 42px;
+    margin-left: auto;
   }
 
   .u-header .u-image-2 {
     width: 73px;
     height: 73px;
+    margin-top: -66px;
     margin-left: 153px;
   }
 
   .u-header .u-image-3 {
     width: 73px;
     height: 73px;
-    margin-right: 119px;
+    margin-top: -64px;
+    margin-right: -50px;
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 365px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: -32px;
+    margin-left: -50px;
+  }
+
   .u-header .u-text-1 {
-    margin-left: 197px;
+    margin-top: -62px;
+  }
+
+  .u-header .u-image-2 {
+    margin-top: -77px;
+    margin-left: 113px;
+  }
+
+  .u-header .u-image-3 {
+    margin-top: -85px;
+    margin-right: 0;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: -45px;
+  }
+
   .u-header .u-text-1 {
-    margin-left: 148px;
+    width: 386px;
+    margin-top: 0;
+    margin-right: auto;
+  }
+
+  .u-header .u-image-2 {
+    width: 73px;
+    height: 73px;
+    margin-top: -79px;
+    margin-left: -23px;
+  }
+
+  .u-header .u-image-3 {
+    width: 73px;
+    margin-top: -70px;
+    margin-right: 20px;
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-header .u-image-1 {
+    width: 135px;
+    height: 140px;
+    margin-top: -45px;
+  }
+
   .u-header .u-text-1 {
-    margin-left: 93px;
+    width: auto;
+    margin-top: 62px;
+    margin-right: -13px;
+    margin-left: 13px;
+  }
+
+  .u-header .u-image-2 {
+    width: 48px;
+    height: 49px;
+    margin-top: -52px;
+    margin-left: -48px;
+  }
+
+  .u-header .u-image-3 {
+    width: 47px;
+    height: 46px;
+    margin-top: -56px;
+    margin-right: -20px;
   }
 }
  .u-footer {
