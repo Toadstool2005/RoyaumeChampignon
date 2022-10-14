@@ -1,33 +1,40 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 543px;
+  min-height: 548px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-form-1 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: none;
   height: 407px;
-  margin: 3px 570px 60px 0;
+  margin: 36px 570px 54px 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-form-1 {
-    width: 470px;
+    width: 570px;
+    margin-right: 370px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-form-1 {
-    margin-right: 350px;
+    margin-right: 150px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-form-1 {
-    margin-right: 170px;
+    width: 540px;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-form-1 {
     width: 340px;
-    margin-right: 0;
   }
 }
